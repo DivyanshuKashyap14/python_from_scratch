@@ -298,3 +298,27 @@
 #         print("prime")
 
 
+# for num in range(2, 101):
+
+#     is_prime = True
+
+#     for i in range(2, num):
+
+#         if num % i == 0:
+#             is_prime = False
+#             break
+
+#     if is_prime:
+#         print(num,end=" ")
+
+
+# n=int(input("n:"))
+# a=0
+# b=1
+# for i in range (0,n):
+#     print(a,end=" ")
+#     c=a+b
+#     a=b
+#     b=c
+
+
