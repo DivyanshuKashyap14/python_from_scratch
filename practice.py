@@ -357,3 +357,8 @@
 #     else:
 #         freq[ch]=1
 # print(freq)
+
+
+# n=input("n:")
+# n=n.upper()
+# print(n)
