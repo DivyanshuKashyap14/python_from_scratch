@@ -321,4 +321,31 @@
 #     a=b
 #     b=c
 
+# a="ABCD"
+# print(a[::-1])
+
+
+# a="DIVYANSHU"
+# a = a.lower()
+# vowels=0
+# consonants=0
+# for ch in a:
+#     if ch in "aeiou":
+#         vowels+=1
+#     else:
+#         consonants+=1
+# print(vowels)
+# print(consonants)
+
+
+
+# a=(input("n:")) 
+# b=""
+# for i in range(len(a)-1,-1,-1):
+#     b=b+a[i]
+# if b==a:
+#     print("palindrome")
+# else:
+#     print("not a palindrome")
+
 
