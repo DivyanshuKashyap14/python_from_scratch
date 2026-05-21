@@ -369,3 +369,12 @@
 #     if ch != " ":
 #         result += ch
 # print(result)
+
+
+# a=("i am a good boy")
+# words=a.split()
+# longest = ""
+# for word in words:
+#     if len(word) > len(longest):
+#         longest=word
+# print(longest)
