@@ -361,4 +361,11 @@
 
 # n=input("n:")
 # n=n.upper()
-# print(n)
+
+
+# a="Hello world"
+# result=""
+# for ch in a:
+#     if ch != " ":
+#         result += ch
+# print(result)
