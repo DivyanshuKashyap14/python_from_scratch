@@ -414,3 +414,12 @@
 #     elif i>secondlargest and i!=largest:
 #         secondlargest=i
 # print(secondlargest)
+
+
+
+# l=[23,65,354,57,3,556,23,354,3,556]
+# list=[]
+# for i in l:
+#     if i not in list:
+#         list.append(i)
+# print(list)
