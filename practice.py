@@ -378,3 +378,14 @@
 #     if len(word) > len(longest):
 #         longest=word
 # print(longest)
+
+
+# a=("divyanshu")
+# result=""
+# vowel=['a', 'e', 'i', 'o', 'u']
+# for i in a:
+#     if i in vowel:
+#         result+="*"
+#     else:
+#         result+=i
+# print(result)
