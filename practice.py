@@ -402,3 +402,15 @@
 #     if i>largest:
 #         largest=i
 # print(largest) 
+
+
+# l=[12,45,23,78,54,76,90,91]
+# largest=l[0]
+# secondlargest=l[0]
+# for i in l:
+#     if i>largest:
+#         secondlargest=largest
+#         largest=i
+#     elif i>secondlargest and i!=largest:
+#         secondlargest=i
+# print(secondlargest)
