@@ -389,3 +389,8 @@
 #     else:
 #         result+=i
 # print(result)
+
+
+# a="divyanshu plays football and he is a right winger"
+# a=a.split()
+# print(len(a))
