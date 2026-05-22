@@ -428,3 +428,13 @@
 # a=[12,34,65,23,4,5,34,12,67,43]
 # a.sort()
 # print(a)
+
+
+# l=[12,34,65,23,4,5,34,12,67,43]
+# for i in range (len(l)):
+#     for j in range(i+1,len(l)):
+#         if l[j]<l[i]:
+#             temp = l[i]
+#             l[i] = l[j]
+#             l[j] = temp
+# print(l)
