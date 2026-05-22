@@ -1,6 +1,6 @@
 # python_from_scratch
-I will post here what i learn everyday in python.
-43 questions solved till now, 
-will solve more to build my foundation strong
-
--Divyanshu Kashyap
+I WILL POST EVERYDAY WHAT I LEARN IN PYTHON
+<br>
+51 QUESTIONS ALREADY SOLVED, [HALF CENTURY DONE]
+<br>
+-DIVYANSHU KASHYAP
