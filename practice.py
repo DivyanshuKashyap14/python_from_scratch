@@ -423,3 +423,8 @@
 #     if i not in list:
 #         list.append(i)
 # print(list)
+
+
+# a=[12,34,65,23,4,5,34,12,67,43]
+# a.sort()
+# print(a)
