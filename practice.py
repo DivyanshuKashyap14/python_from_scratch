@@ -448,3 +448,12 @@
 # for i in m:
 #     merge.append(i)
 # print(merge)
+
+
+# l1 = [1,2,3,4,5,6]
+# l2 = [1,7,3,9,0,6]
+# new = []
+# for i in l1:
+#     if i in l2:
+#         new.append(i)
+# print(new)
