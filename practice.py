@@ -438,3 +438,13 @@
 #             l[i] = l[j]
 #             l[j] = temp
 # print(l)
+
+
+# l=[1,2,3,4,5]
+# m=[6,7,8,9,0]
+# merge=[]
+# for i in l:
+#     merge.append(i)
+# for i in m:
+#     merge.append(i)
+# print(merge)
