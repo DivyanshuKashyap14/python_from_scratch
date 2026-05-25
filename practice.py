@@ -497,3 +497,19 @@
 #    else:
 #       odd+=1
 # print(even,odd)
+
+
+# l=[1,2,3,4,5,6,8,9,10]
+# n=10
+# total=n * (n + 1) // 2
+# print(total-sum(l))
+
+
+# l = [1,2,4,6]
+# n = 6
+# s = set(l)
+# missing = []
+# for i in range(1, n+1):
+#     if i not in s:
+#         missing.append(i)
+# print(missing)
