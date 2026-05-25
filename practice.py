@@ -465,3 +465,13 @@
 # for i in l[::-1]:
 #     l2.append(i)
 # print(l2)
+
+
+# l=[1,2,3,4,5]
+# k=int(input("n="))
+# l2=[]
+# for i in l[-k::]:
+#     l2.append(i)
+# for i in l[:-k]:
+#     l2.append(i)
+# print(l2)
