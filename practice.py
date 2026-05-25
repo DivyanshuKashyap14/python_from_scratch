@@ -457,3 +457,11 @@
 #     if i in l2:
 #         new.append(i)
 # print(new)
+
+
+
+# l=[1,2,3,4,5]
+# l2=[]
+# for i in l[::-1]:
+#     l2.append(i)
+# print(l2)
