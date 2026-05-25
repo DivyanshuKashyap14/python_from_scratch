@@ -475,3 +475,14 @@
 # for i in l[:-k]:
 #     l2.append(i)
 # print(l2)
+
+
+# l=[1,2,3,4,5,6,7,8,9]
+# sum=0
+# for i in l:
+#     sum+=i
+# print(sum)
+
+
+l=[1,2,3,4,5,6,7,8,9]
+print(sum(l))    #builtin function .sum()
