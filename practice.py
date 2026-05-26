@@ -513,3 +513,17 @@
 #     if i not in s:
 #         missing.append(i)
 # print(missing)
+
+
+student={
+    "div":99,
+    "nish":94,
+    "dabi":95
+}
+highest=0
+topper=""
+for name,marks in student.items():
+    if marks > highest:
+        highest = marks
+        topper = name
+print(topper,highest)
