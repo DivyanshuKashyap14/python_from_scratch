@@ -543,3 +543,14 @@
 # dict2={"c":"3","d":"4"}
 # dict1.update(dict2)
 # print(dict1)
+
+
+# student = {
+#     "div": 99,
+#     "nish": 94,
+#     "dabi": 95
+# }
+# sorted_student=dict(
+#     sorted(student.items(),key=lambda x:x[1])
+# )
+# print(sorted_student)
