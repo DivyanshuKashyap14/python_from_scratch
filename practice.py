@@ -515,15 +515,25 @@
 # print(missing)
 
 
-student={
-    "div":99,
-    "nish":94,
-    "dabi":95
-}
-highest=0
-topper=""
-for name,marks in student.items():
-    if marks > highest:
-        highest = marks
-        topper = name
-print(topper,highest)
+# student={
+#     "div":99,
+#     "nish":94,
+#     "dabi":95
+# }
+# highest=0
+# topper=""
+# for name,marks in student.items():
+#     if marks > highest:
+#         highest = marks
+#         topper = name
+# print(topper,highest)
+
+
+# words = ["div","abc","div","bye","apple"]
+# freq={}
+# for word in words:
+#     if word in freq:
+#         freq[word]+=1
+#     else:
+#         freq[word]=1
+# print(freq)
