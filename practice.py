@@ -554,3 +554,12 @@
 #     sorted(student.items(),key=lambda x:x[1])
 # )
 # print(sorted_student)
+
+
+# t=(1,4,3,6,4,5,8,6)
+# max=t[0]
+# maximum = t[0]
+# for i in t:
+#     if i > maximum:
+#         maximum = i
+# print(maximum)
